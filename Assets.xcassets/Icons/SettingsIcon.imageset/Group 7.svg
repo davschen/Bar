@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="19px" viewBox="0 0 23 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="Wireframing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-335.000000, -67.000000)" fill="#FFFFFF">
+            <g id="Group-7" transform="translate(335.655172, 68.000000)">
+                <rect id="Rectangle" x="0" y="1.63636364" width="22.3448276" height="4.09090909" rx="2.04545455"></rect>
+                <rect id="Rectangle-3" x="0.344827586" y="11" width="22" height="4" rx="2"></rect>
+                <ellipse id="Oval" stroke="#F04D98" stroke-width="2" cx="6.06896552" cy="3.68181818" rx="3.72413793" ry="3.68181818"></ellipse>
+                <ellipse id="Oval" stroke="#F04D98" stroke-width="2" cx="16.7143465" cy="13.3181818" rx="3.66666667" ry="3.68181818"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
